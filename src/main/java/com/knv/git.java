@@ -10,5 +10,6 @@ public class git {
         System.out.println("hot-fix Test");
         System.out.println("GitHub Push");
         System.out.println("GitHub Push 2");
+        System.out.println("Pull");
     }
 }
